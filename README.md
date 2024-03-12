@@ -58,7 +58,8 @@ Make sure your are in the right directory.
 ![python manage py runserver](https://github.com/StormBo1/GitPortfolios/assets/148717363/83c5b414-a5b5-4a2f-80dc-f12d6b0251a8)
 
 - Once you have successfully run the project a URL will appear in the terminal...click on it
-![URL starting development server](https://github.com/StormBo1/GitPortfolios/assets/148717363/e14d41ca-7453-4bc5-8a0c-8cd172e165e9)
+![Screenshot 2024-03-12 155027](https://github.com/StormBo1/GitPortfolios/assets/148717363/86c120a7-d434-4848-a444-54b357e39828)
+
 
 - A login page will pop up. select login
 ![login](https://github.com/StormBo1/GitPortfolios/assets/148717363/af64ee58-7ce0-405d-aa43-422a7e70b1ee)
