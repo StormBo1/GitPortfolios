@@ -73,7 +73,7 @@ Once you have successfuly change the page you will see the following:
 - After succesfully signing up you will be redirected to the Display page of the project:
 ![Screenshot 2024-03-12 153735](https://github.com/StormBo1/GitPortfolios/assets/148717363/03d34a25-b21e-4419-a3a2-d3d6702f3616)
 
-- Once you are done viewing the webpage, dont forget to end the server in your termianl by pressing CTRL BREAK buttons together
+- Once you are done viewing the webpage, dont forget to logout and end the server in your terminal by pressing CTRL BREAK buttons together
 
 ## Credits
 
