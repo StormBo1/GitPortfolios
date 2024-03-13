@@ -74,3 +74,13 @@ Once you have successfuly change the page you will see the following:
 ![Screenshot 2024-03-12 153735](https://github.com/StormBo1/GitPortfolios/assets/148717363/03d34a25-b21e-4419-a3a2-d3d6702f3616)
 
 - Once you are done viewing the webpage, dont forget to end the server in your termianl by pressing CTRL BREAK buttons together
+
+## Credits
+
+[Arabic Calligraphy](https://en.wikipedia.org/wiki/Arabic_calligraphy)
+
+[Islamic Calligrpahy](https://en.wikipedia.org/wiki/Islamic_calligraphy)
+
+## URL to repository
+
+[GitPortfolios](https://github.com/StormBo1/GitPortfolios)
