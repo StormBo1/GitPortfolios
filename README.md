@@ -47,7 +47,7 @@ picture frame hanging on the walls in our homes , places of work, marketplaces e
 3. ** Install Dependancies:**
    pip install in your terminal
 
-4. ** Run the project:**
+4. ** Run the project after looking at the USAGE section in the README:**
 
    python manage.py runserver
 
