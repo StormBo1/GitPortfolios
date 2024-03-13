@@ -79,7 +79,7 @@ Once you have successfuly change the page you will see the following:
 
 [Arabic Calligraphy](https://en.wikipedia.org/wiki/Arabic_calligraphy)
 
-[Islamic Calligrpahy](https://en.wikipedia.org/wiki/Islamic_calligraphy)
+[Islamic Calligraphy](https://en.wikipedia.org/wiki/Islamic_calligraphy)
 
 ## URL to repository
 
